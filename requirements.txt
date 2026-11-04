@@ -1,0 +1,5 @@
+tensorflow-datasets
+tensorflow-hub
+scipy
+tf-keras
+importlib-resources
